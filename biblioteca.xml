@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<libros>
+    <tipologia>Novela y narrativa extranjera
+    <libro>
+        <autor>
+            <apellido1>Hannah</apellido1>
+            <apellido2></apellido2>
+            <nombre>Kristin</nombre>
+        </autor>
+        <titulo>El ruiseñor</titulo>
+        <editorial>Suma</editorial>
+        <fechaPublicacion>11/02/2016</fechaPublicacion>
+        <ISBN>9788483658284</ISBN>
+    </libro>
+    <libro>
+        <autor>
+            <apellido1>Berlin</apellido1>
+            <apellido2></apellido2>
+            <nombre>Lucia</nombre>
+        </autor>
+        <titulo>Manual para mujeres de la limpieza</titulo>
+        <editorial>Alfaguara</editorial>
+        <fechaPublicacion>17/03/2016</fechaPublicacion>
+        <ISBN>9788420416786</ISBN>
+    </libro>
+    <libro>
+        <autor>
+            <apellido1>Ferrante</apellido1>
+            <apellido2></apellido2>
+            <nombre>Elena</nombre>
+        </autor>
+        <titulo>La niña perdida</titulo>
+        <editorial>DEBOLSILLO EDITORIAL</editorial>
+        <fechaPublicacion>14/06/2018</fechaPublicacion>
+        <ISBN>9788466344388</ISBN>
+    </libro>
+    </tipologia>
+    <tipologia>Comic español
+    <libro>
+    <autores>
+        <autor>
+            <apellido1>Bustos</apellido1>
+            <apellido2></apellido2>
+            <nombre>Luis</nombre>
+        </autor>
+        <autor>
+            <apellido1>Carretero</apellido1>
+            <apellido2></apellido2>
+            <nombre>Nacho</nombre>
+        </autor>
+    </autores>
+        <titulo>Fariña. La novela grafica</titulo>
+        <editorial>Plan B </editorial>
+        <fechaPublicacion>07/11/2019</fechaPublicacion>
+        <ISBN>9788417001834</ISBN>
+    </libro>
+    </tipologia>
+    <tipologia>Novela negra
+    <libro>
+        <autor>
+            <apellido1>Winslow</apellido1>
+            <apellido2></apellido2>
+            <nombre>Don</nombre>
+        </autor>
+        <titulo>El cartel</titulo>
+        <editorial>Harper Bolsillo</editorial>
+        <fechaPublicacion>22/09/2021</fechaPublicacion>
+        <ISBN>9788418623103</ISBN>
+    </libro>
+    <libro>
+        <autor>
+            <apellido1>Gómez</apellido1>
+            <apellido2>Jurado</apellido2>
+            <nombre>Juan</nombre>
+        </autor>
+        <titulo>Cicatriz</titulo>
+        <editorial>B (Ediciones B)</editorial>
+        <fechaPublicacion>08/10/2020</fechaPublicacion>
+        <ISBN>9788466668002</ISBN>
+    </libro>
+    </tipologia>
+    <tipologia>Novela y narrativa española e hispanoamericana
+    <libro>
+        <autor>
+            <apellido1>Grandes</apellido1>
+            <apellido2></apellido2>
+            <nombre>Almudena</nombre>
+        </autor>
+        <titulo>Los besos en el pan</titulo>
+        <editorial>Maxi-Tusquets</editorial>
+        <fechaPublicacion>27/04/2017</fechaPublicacion>
+        <ISBN>9788490664186</ISBN>
+    </libro>
+    <libro>
+        <autor>
+            <apellido1>Ybarra </apellido1>
+            <apellido2>Pasch</apellido2>
+            <nombre>Gabriela</nombre>
+        </autor>
+        <titulo>El comensal</titulo>
+        <editorial>RHM-MONDADORI</editorial>
+        <fechaPublicacion>27/01/2022</fechaPublicacion>
+        <ISBN>9788439739203</ISBN>
+    </libro>
+    <libro>
+        <autor>
+            <apellido1>Fernández </apellido1>
+            <apellido2>Cubas</apellido2>
+            <nombre>Cristina</nombre>
+        </autor>
+        <titulo>La habitación de Nona</titulo>
+        <editorial>Maxi-Tusquets</editorial>
+        <fechaPublicacion>03/09/2019</fechaPublicacion>
+        <ISBN>9788490667118</ISBN>
+    </libro>
+    </tipologia>
+    <tipologia>Libros de Filosofia
+    <libro>
+        <autor>
+            <apellido1>Maillard</apellido1>
+            <apellido2></apellido2>
+            <nombre>Chantal</nombre>
+        </autor>
+        <titulo>La mujer de pie</titulo>
+        <editorial>Galaxia Gutenberg, S.L.</editorial>
+        <fechaPublicacion>01/09/2015</fechaPublicacion>
+        <ISBN>9788416252763</ISBN>
+    </libro>
+    </tipologia>
+</libros>
